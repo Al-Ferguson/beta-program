@@ -78,7 +78,7 @@ You may mix them up in the felt bag, roll them in your hands, or simply drop the
 
 ### 4. Scan the test key with the DiceKeys app
 
-Got to https://dicekeys.app/ with the browser on your mobile phone, tablet, or camera-enabled computer.  Try to scan in the key and report what happens.  You may also try to generate a password for a password manager.
+Got to <https://dicekeys.app/> with the browser on your mobile phone, tablet, or camera-enabled computer.  Try to scan in the key and report what happens.  You may also try to generate a password for a password manager.
 
 ### 5. Take a few pictures of the temporary key
 
@@ -102,7 +102,7 @@ Just be sure to turn off the video before you lift the lid to expose the key.
 
 Be sure to stop any recording before opening the box.
 
-### 9. Please send your report to us.
+### 9. Please send your report to us
 
 Once again, you mail email it to us at beta@dicekeys.com (the private options) or make your experience public by [filing an issue in this repository](https://github.com/dicekeys/beta-program/issues/new) (requires a GitHub account) or submitting a PR to this repository which adds a new directory with your experience under the [`experience-reports`](./experience-reports) directory.
 
