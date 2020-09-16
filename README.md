@@ -78,7 +78,7 @@ You may mix them up in the felt bag, roll them in your hands, or simply drop the
 
 ### 4. Scan the test key with the DiceKeys app
 
-Got to <https://dicekeys.app/> with the browser on your mobile phone, tablet, or camera-enabled computer.  Try to scan in the key and report what happens.  You may also try to generate a password for a password manager.
+Go to <https://dicekeys.app/> with the browser on your mobile phone, tablet, or camera-enabled computer.  Try to scan in the key and report what happens.  You may also try to generate a password for a password manager.
 
 ### 5. Take a few pictures of the temporary key
 
