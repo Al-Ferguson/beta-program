@@ -20,7 +20,7 @@ We choose not to require you to sign any agreement before joining our beta progr
 
 That means the test hardware is _yours_ to keep, though it does not replace the production hardware that you may have ordered, which will ship at a later date. You are free to share your experience with _your_ test hardware any way _you_ like.  We _request_ that you are courteous enough to make clear that this is test hardware and not necessarily what will be shipped to backers after testing completes.
 
-Since the purpose of this hardware is for testing, we cannot guarantee that it won't have problems with it or that we won't make significant changes in the production version that would require make our software work less well with beta hardware. Even if there are no problems to fix with the beta hardware, we _request_ that you not cancel your order for our production hardware or return it.
+Since the purpose of this hardware is for testing, we cannot guarantee that it won't have problems with it, nor that we won't make significant changes in the production version that might make our software work less effectively with the beta hardware. Even if there are no problems to fix with the beta hardware, we _request_ that you not cancel your order for our production hardware or return it.
 
 While you are not obligated to event report that you received the test hardware, we hope that you will do your best to complete the requested tasks and report your experience to us.
 
